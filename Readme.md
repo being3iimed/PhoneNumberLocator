@@ -16,7 +16,7 @@ steps u need to run this code
 
 # opencage is a geocoding API in Python
 
-# open " https://opencagedata.com " create an account to get API keys
+ open " https://opencagedata.com " create an account to get API keys
 
 3- pip install folium
 
