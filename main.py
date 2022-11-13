@@ -1,11 +1,10 @@
 import phonenumbers
 import opencage
 import folium
-
 from myphone import MyPhoneNumber
 
-# modules we have to import that we are going to use
 
+# modules we have to import that we are going to use
 # to extract the country name
 from phonenumbers import geocoder
 
