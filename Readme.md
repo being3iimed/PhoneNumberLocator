@@ -22,17 +22,17 @@ steps u need to run this code
 
 # folium is a Python library helps create leaflet maps
 
+
+
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 if you liked this leave a star
-
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-
 created by 3iimed
